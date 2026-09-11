@@ -136,7 +136,6 @@ print(manager.history["Erbast"][-1], manager.history["Carviz"][-1])
 ```
 *.py         simulation modules
 figures/     population dynamics, phase portrait
-docs/        project report (design decisions, testing, limitations)
 ```
 
 ## Known limitations
@@ -151,5 +150,4 @@ docs/        project report (design decisions, testing, limitations)
   population fast enough to slow the simulation down noticeably after several hundred
   days.
 
-`docs/Report.pdf` covers the design decisions, testing scenarios, and possible
-extensions in detail.
+
