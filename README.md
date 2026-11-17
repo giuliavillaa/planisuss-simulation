@@ -5,7 +5,7 @@ application: ~4,400 lines across 11 modules, with a real-time matplotlib interfa
 a Tkinter configuration window, and save/load of the full simulation state.
 
 Final project for *Computer Programming, Algorithms and Data Structures*,
-BSc in Artificial Intelligence (Università di Pavia · Università di Milano-Bicocca ·
+BSc in Artificial Intelligence (Università di Pavia, Università di Milano-Bicocca,
 Università degli Studi di Milano), 2024/2025.
 
 ![Population dynamics and vegetation density over one run](figures/population_dynamics.png)
